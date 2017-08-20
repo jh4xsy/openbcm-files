@@ -1,2 +1,3 @@
 # openbcm-messages-ja
-openBCM japanese message-files 
+
+openBCM message-files translated into Japanese. Put these files into $BCMHOME/msg.
