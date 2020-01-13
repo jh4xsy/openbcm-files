@@ -1,5 +1,4 @@
-# openbcm-messages-ja
+# openbcm-files
 
-openBCM message-files translated into Japanese. Put these files into $BCMHOME/msg.
+My openBCM configuration files.
 
-The offical release is http://dnx274.org/baybox/pre/msg_130706.zip.
