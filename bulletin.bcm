@@ -1,0 +1,84 @@
+; OpenBCM Bulletin Listfile
+;
+all        15   1
+ equake    10   1
+ info      10   1
+ qst       10   1
+ saigai    10   1
+ sysop     10   1
+ test      10   1
+ xmas      10   1
+aprs       10   1
+ wetter    10   1
+binary     10   1
+ 7plus     10   1
+ images    10   1
+bus        10   1
+ cw        10   1
+ packet    10   1
+ pactor    10   1
+ rtty      10   1
+dx         10   1
+ condx     15   1
+ cq        10   1
+ solar     10   1
+geraete    10   1
+ alinco    10   1
+ drake     10   1
+ icom      10   1
+ kenwood   10   1
+ standard  10   1
+ yaesu     10   1
+groups     10   1
+ agcw      10   1
+ arrl      10   1
+ bcast     10   1
+ darc      10   1
+ distri    10   1
+ ml        10   1
+ qnews     10   1
+ rsgb      10   1
+misc       15   1
+ humor     10   1
+ music     15   1
+ today     10   1
+ todos     10   1
+sat        10   1
+ amsat     10   1
+ kepler    10   1
+ wxsat     10   1
+software   10   1
+ agw       10   1
+ baybox   180   1
+ baycom   180   1
+ bbs      180   1
+ bpq       10   1
+ fbb       10   1
+ jnos      15   1
+ linux     10   1
+ thenet    15   1
+ windows   10   1
+ winpack   10   1
+technik    10   1
+ ardf      10   1
+ atv       10   1
+ dstar     10   1
+ ham       15   1
+ ibm       10   1
+ rtlsdr    15   1
+ tcpip     10   1
+ tnc       10   1
+tmp        10   1
+ alert     15   1
+ cluste    15   1
+ cocina    15   1
+ new       15   1
+ propag    15   1
+ sstv      15   1
+ wxinf     15   1
+ wxsatg    15   1
+ wxsatp    15   1
+ wxsats    15   1
+ xnet      15   1
+w          10   1
+wp         10   1
